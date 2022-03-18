@@ -39,3 +39,7 @@ function hamming (n) {
   return array[n-1];
 }
 ```
+## Languages
+* Russian - native
+* Tatar - native :)
+* English - B1
